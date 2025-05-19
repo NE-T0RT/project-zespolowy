@@ -30,4 +30,5 @@ A web application for video-based learning with integrated quizzes and admin/use
 
 ## Links
 
-- [GitHub Repository]([https://github.com/yourusername/your-repo](https://github.com/Maxaytt/ProjectZespolowy))
+- [GitHub Repository](https://github.com/Maxaytt/ProjectZespolowy)
+
